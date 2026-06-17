@@ -1,1 +1,0 @@
-# Hive + MAS-OpenClaw Integration

@@ -1,1 +1,0 @@
-# MAS-OpenClaw Agents Package
